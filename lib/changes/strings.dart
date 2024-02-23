@@ -1,19 +1,19 @@
 String hellotag = '''Hi there, Welcome to My Space  ''';
 
-String yourname = "I'm Sudesh Bandara,";
+String yourname = "I'm Ajayi Olumide,";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
 String animationtxt1 = " Mobile Application Developer";
-String animationtxt2 = " UI/UX Designer";
+String animationtxt2 = " Manual Software Tester";
 String animationtxt3 = " Web Developer";
 
 //
-String contactHeadding = "Let’s try my service now!";
+String contactHeadding = "Experience my service now!";
 String contactSubHeadding =
-    "Let’s work together and make everything super cute and super useful.";
+    "Let's collaborate to create both aesthetically pleasing and highly functional solutions.";
 //
 String miniDescription =
-    "Freelancer providing services for programming and design content needs. Join me down below and let's get started!";
+    "Experienced Cross-platform Flutter developer specializing in web and mobile application development with years of proven success in delivering commercially viable applications.  ensuring optimal user satisfaction. Additionally, adept Manual Software Tester skilled in thorough testing methodologies and defect identification.";
 
 String servicesSubHeading =
     "Since the beginning of my journey as a freelance designer and developer, I've worked in startups and collaborated with talented people to create digital products for both business and consumer use. I offer a wide range of services, including brand design, programming and teaching.";
